@@ -18,5 +18,5 @@ MATEORS RULES
 * Prayer 5 times
 * Quran 1 page
 * Github push 10
-* Daily report 1
+* Daily report 1 :: 10pm-11pm
 * English communication meeting 1 at 6:30am
