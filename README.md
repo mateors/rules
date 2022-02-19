@@ -11,3 +11,12 @@ MATEORS RULES
 * Whatsapp instant reply
 * English communication imrpovement
 * Task List Maintain with status
+
+## Salary deduction formula
+
+### Lack of activitites on following:
+* Prayer 5 times
+* Quran 1 page
+* Github push 10
+* Daily report 1
+* English communication meeting 1 at 6:30am
