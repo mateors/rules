@@ -13,8 +13,11 @@ MATEORS RULES TO FOLLOW.
 * Task List Maintain with status
 
 ## Salary deduction formula
+Failure to meet the following obligations may result in deduction of your earnings.
+Fulfillment may otherwise be rewarded.
 
 ### Lack of submission of the following:
+
 * Prayer 5 times
 * Quran 1 page(s)
 * Github 10 pushes
