@@ -1,5 +1,5 @@
 # rules
-MATEORS RULES
+MATEORS RULES TO FOLLOW.
 
 * Naming Convention
 * Dicipline & Punctuality
@@ -7,9 +7,9 @@ MATEORS RULES
 * 5 Prayers in a day
 * Quran reading
 * Github 10 push
-* Email Check every 2 hours
-* Whatsapp instant reply
-* English communication imrpovement
+* Email Checking (every 2 hours interval)
+* Whatsapp & Email instant reply
+* English communication improvement
 * Task List Maintain with status
 
 ## Salary deduction formula
