@@ -1,5 +1,6 @@
 # rules
-MATEORS RULES TO FOLLOW.
+MATEORS RULES TO FOLLOW. Applicable from **February 19, 2022.**
+
 
 * Naming Convention
 * Dicipline & Punctuality
